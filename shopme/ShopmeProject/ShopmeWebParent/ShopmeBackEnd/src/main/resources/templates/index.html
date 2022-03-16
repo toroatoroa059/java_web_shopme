@@ -31,15 +31,16 @@
 				</button>
 				<div class="collapse navbar-collapse" id="navbarText">
 					<ul class="navbar-nav mr-auto">
-						<li class="nav-item active"><a class="nav-link" href="#">User
+						<li class="nav-item active"><a class="nav-link" th:href="@{/users}">User
 						</a></li>
-						<li class="nav-item"><a class="nav-link" href="#">Features</a>
+						<li class="nav-item"><a class="nav-link" th:href="@{/categories}">Category</a>
 						</li>
-						<li class="nav-item"><a class="nav-link" href="#">Pricing</a>
+						<li class="nav-item"><a class="nav-link" th:href="@{/brands}">Brands</a>
 						</li>
+						<li class="nav-item"><a class="nav-link" th:href="@{/products}">Products
+						</a></li>
 					</ul>
-					<span class="navbar-text"> Navbar text with an inline
-						element </span>
+					<span class="navbar-text"> User Account </span>
 				</div>
 			</nav>
 		</div>

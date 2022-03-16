@@ -2014,6 +2014,3 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.webjars:p
 2022-02-27 11:32:02,173 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-02-27 11:32:02,173 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2022-02-27 11:32:02,173 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA_CODE_09\workspace\shopme\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
-2022-03-05 22:52:47,004 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
-2022-03-05 22:53:00,984 [Worker-11: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.shopme:ShopmeProject:0.0.1-SNAPSHOT @ G:\HOME\Java09\Workspace\7. Project-finish\shopme\ShopmeProject\pom.xml.
-2022-03-05 23:11:21,561 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
